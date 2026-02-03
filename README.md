@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Kejriwal</h1>
 
-- 👨‍💻 All of my projects are available at [dhruvkejriwal.netlify.app](https://dhruvkejriwal.netlify.app/)  
+- 👨💻 All of my projects are available at [dhruvkejriwal.netlify.app](https://dhruvkejriwal.netlify.app/)  
 - 📫 Reach me at **dhruvkejri9@gmail.com**  
 - 📄 Know more about my experiences at [shortenn.me/dhruvkejriwal](https://shortenn.me/dhruvkejriwal)  
 
@@ -42,9 +42,10 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkej9&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkej9&title=-Reviews&no-bg=true&theme=onedark" alt="dhruvkej9" /></a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkej9" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvkej9&show_icons=true&theme=cobalt2&card_width=430px" alt="dhruvkej9" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dhruvkej9&theme=tokyonight&card_width=390px" alt="dhruvkej9" />
 </p>
